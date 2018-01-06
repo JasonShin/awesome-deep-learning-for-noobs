@@ -4,7 +4,11 @@
 
 This page is going to arrange learning materials in
 
-## Get excited
+## Here we go
+
+### 0. Python for noobs
+
+- [Cheat sheet](http://datasciencefree.com/python.pdf)
 
 ### 1. Machine Learning overview
 
