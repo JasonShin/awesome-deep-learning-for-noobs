@@ -32,5 +32,6 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### 4. Linear Algebra
 - [Linear Algebra for Deep Learning cheat sheet](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 - [Linear Algebra for Deep Learning cheat sheet 2](https://medium.com/@LeonFedden/a-hackers-guide-to-deep-learnings-secret-sauces-linear-algebra-555403c3be16)
+- [In-depth](http://www.deeplearningbook.org/contents/linear_algebra.html)
 
 ### 5. Calculus
