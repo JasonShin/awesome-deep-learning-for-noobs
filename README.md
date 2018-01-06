@@ -2,11 +2,11 @@
 
 # Deep Learning for Complete F*@king Noobs! (DL4CFN) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This page is going to arrange learning materials in
+
 ## Get excited
 
 ### 1. History of Machine  Learning
-
-#### Context
 
 You generally need to learn about basics of Machine Learning before you start practicing Deep Learning
 
@@ -16,3 +16,11 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### 2. History of deep learning
 
 - [History of deep learning - very high level overview](https://www.youtube.com/watch?v=n6XSDA3kfEw)
+
+
+### 3. Statistics
+
+- [Collection of statistic fundamentals](https://sites.google.com/a/case.edu/hpc-upgraded-cluster/home/important-notes-for-new-users/helpful-references/deep-learning/basic-statistics-for-deep-learning)
+- [In-depth statistics](https://www.khanacademy.org/math/statistics-probability)
+
+### 4. Linear Algebra
