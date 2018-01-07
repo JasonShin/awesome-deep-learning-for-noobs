@@ -35,3 +35,8 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [In-depth](http://www.deeplearningbook.org/contents/linear_algebra.html)
 
 ### 5. Calculus
+
+
+### Recurrent Neural Network
+- [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+- [Really good LSTM notebook demo](https://github.com/llSourcell/LSTM_Networks/blob/master/LSTM%20Demo.ipynb)
