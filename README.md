@@ -39,6 +39,8 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 ### Convolutional Neural Network
 - [Really good CNN notebook demo + Flask](https://github.com/llSourcell/Convolutional_neural_network)
+- [Easy to follow CNN digit recogniser tutorial](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
+- [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
