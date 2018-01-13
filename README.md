@@ -35,7 +35,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [In-depth](http://www.deeplearningbook.org/contents/linear_algebra.html)
 
 ### 5. Calculus
-
+- [Backpropogation](http://colah.github.io/posts/2015-08-Backprop/)
 
 ### Convolutional Neural Network
 - [Friendly guide to CNN](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
