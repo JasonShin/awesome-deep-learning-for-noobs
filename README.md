@@ -45,6 +45,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
 - [CNN for beginners](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - [CNN cifar10 implementation in TF](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/06_CIFAR-10.ipynb)
+- [CNN cifar10 implementation in TF 2](https://www.youtube.com/watch?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ&v=3BXfw_1_TF4)
 
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
