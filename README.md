@@ -22,6 +22,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 - [History of deep learning - very high level overview](https://www.youtube.com/watch?v=n6XSDA3kfEw)
 - [Super awesome psudo code of all important Deep Learning algorithms](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
+- [Terminologies](http://wiki.deeplearning.ai/Welcome)
 
 
 ### 3. Statistics
