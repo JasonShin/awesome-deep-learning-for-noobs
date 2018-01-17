@@ -23,6 +23,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [History of deep learning - very high level overview](https://www.youtube.com/watch?v=n6XSDA3kfEw)
 - [Super awesome psudo code of all important Deep Learning algorithms](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [Terminologies](http://wiki.deeplearning.ai/Welcome)
+- [What is intuition in Deep Learning?](https://medium.com/intuitionmachine/intuition-innovation-and-deep-learning-f20b9908d23c)
 
 
 ### 3. Statistics
@@ -37,12 +38,19 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 ### 5. Calculus
 - [Backpropogation](http://colah.github.io/posts/2015-08-Backprop/)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 466d7bf4b5a1f4914f755972c514fe34630e0c9f
 
 ### Convolutional Neural Network
 - [Friendly guide to CNN](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [Really good CNN notebook demo + Flask](https://github.com/llSourcell/Convolutional_neural_network)
 - [Easy to follow CNN digit recogniser tutorial](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 - [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+- [CNN for beginners](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [CNN cifar10 implementation in TF](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/06_CIFAR-10.ipynb)
+- [CNN cifar10 implementation in TF 2](https://www.youtube.com/watch?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ&v=3BXfw_1_TF4)
 
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
