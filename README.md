@@ -17,6 +17,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [What is machine learning - Video series](https://classroom.udacity.com/courses/ud262/lessons/3625438937/concepts/6405791940923)
 - [What is Machine Learning - Comparison with X](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [High level view of ML](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
+- [One hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 
 ### 2. Deep Learning overview
 
@@ -38,10 +39,6 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 ### 5. Calculus
 - [Backpropogation](http://colah.github.io/posts/2015-08-Backprop/)
-<<<<<<< HEAD
-=======
-
->>>>>>> 466d7bf4b5a1f4914f755972c514fe34630e0c9f
 
 ### Convolutional Neural Network
 - [Friendly guide to CNN](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
