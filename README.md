@@ -18,6 +18,8 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [What is Machine Learning - Comparison with X](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [High level view of ML](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
 - [One hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+- [Feature Engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+)
 
 ### 2. Deep Learning overview
 
