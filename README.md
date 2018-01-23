@@ -20,6 +20,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [One hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 - [Feature Engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 )
+- [Lexical Analysis Terminologies](https://konghq.com/blog/a-guide-to-text-processing-and-machine-learning-api-terms/)
 
 ### 2. Deep Learning overview
 
