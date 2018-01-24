@@ -21,6 +21,8 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Feature Engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 )
 - [Lexical Analysis Terminologies](https://konghq.com/blog/a-guide-to-text-processing-and-machine-learning-api-terms/)
+- [Xgboost example 1](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
+- [Xgboost example 2](https://www.kaggle.com/datacanary/xgboost-example-python)
 
 ### 2. Deep Learning overview
 
