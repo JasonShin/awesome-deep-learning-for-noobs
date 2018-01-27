@@ -31,6 +31,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Super awesome psudo code of all important Deep Learning algorithms](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [Terminologies](http://wiki.deeplearning.ai/Welcome)
 - [What is intuition in Deep Learning?](https://medium.com/intuitionmachine/intuition-innovation-and-deep-learning-f20b9908d23c)
+- [Deep Learning tutorials by DanB](https://www.kaggle.com/learn/deep-learning)
 - [Backpropogation in Python from scratch](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 
 ### 3. Statistics
