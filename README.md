@@ -59,6 +59,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Really good LSTM notebook demo](https://github.com/llSourcell/LSTM_Networks/blob/master/LSTM%20Demo.ipynb)
 
 ### Time Series Analysis
+- [Overview of TSA](http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
 - [Hierachical Temporal Memory](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
 
 ### Bonus
