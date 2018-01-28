@@ -2,8 +2,6 @@
 
 # Deep Learning for Complete F*@king Noobs! (DL4CFN) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This page is going to arrange learning materials in
-
 ## Here we go
 
 ### 0. Python for noobs
@@ -60,6 +58,8 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
 - [Really good LSTM notebook demo](https://github.com/llSourcell/LSTM_Networks/blob/master/LSTM%20Demo.ipynb)
 
+### Time Series Analysis
+- [Hierachical Temporal Memory](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
 
 ### Bonus
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
