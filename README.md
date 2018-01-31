@@ -64,6 +64,9 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Overview of TSA](http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
 - [Hierachical Temporal Memory](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
 
+### Generative Adversarial Network
+- [Maths behind](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+
 ### Bonus
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
 - [DanB Kaggle Kernels](https://www.kaggle.com/dansbecker/kernels)
