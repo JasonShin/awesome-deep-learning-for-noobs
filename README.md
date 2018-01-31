@@ -73,3 +73,6 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 ### Kaggle competitions
 - [Titanic: Machine Learning from Disaster](https://www.youtube.com/watch?v=xpeoKf4or0o)
+
+### Special thanks
+- [Tensorflow Top to Bottom](https://github.com/astorfi/TensorFlow-World-Resources)
