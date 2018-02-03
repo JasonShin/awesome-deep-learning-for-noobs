@@ -56,6 +56,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [CNN cifar10 implementation in TF 2](https://www.youtube.com/watch?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ&v=3BXfw_1_TF4)
 - [Andrew Ng Youtube series](https://www.youtube.com/watch?v=Z91YCMvxdo0&list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud)
 - [CNN Striding](https://discuss.analyticsvidhya.com/t/valid-padding-in-convolution-neural-networks/10738/3)
+- [Dropout](https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning-And-why-is-it-claimed-to-be-an-effective-trick-to-improve-your-network)
 
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
