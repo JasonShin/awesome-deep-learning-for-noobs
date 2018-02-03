@@ -47,6 +47,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 
 ### Convolutional Neural Network
 - [Friendly guide to CNN](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+- [CNN Cat vs Dog in Keras](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - [Really good CNN notebook demo + Flask](https://github.com/llSourcell/Convolutional_neural_network)
 - [Easy to follow CNN digit recogniser tutorial](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/)
 - [Capsule Network](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
