@@ -60,6 +60,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Dropout](https://www.quora.com/How-does-the-dropout-method-work-in-deep-learning-And-why-is-it-claimed-to-be-an-effective-trick-to-improve-your-network)
 - [Keras classification example](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/)
 - [Cat vs Dog classification tutorial](https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/)
+- [Cat vs Dog classification Keras](https://www.kaggle.com/stevenhurwitt/cats-vs-dogs-using-a-keras-convnet)
 
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
