@@ -76,6 +76,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Bonus
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
 - [DanB Kaggle Kernels](https://www.kaggle.com/dansbecker/kernels)
+- [My First Month as a Junior Data-Scientist](https://gaborvecsei.wordpress.com/2017/10/28/my-first-month-as-a-junior-data-scientist/)
 
 ### Kaggle competitions
 - [Titanic: Machine Learning from Disaster](https://www.youtube.com/watch?v=xpeoKf4or0o)
