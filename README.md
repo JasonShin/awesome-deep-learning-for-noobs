@@ -73,6 +73,9 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Generative Adversarial Network
 - [Maths behind](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
+### Chatbots
+- [How do chatbots work?](https://chatbotslife.com/nlp-nlu-nlg-and-how-chatbots-work-dd7861dfc9df)
+
 ### Bonus
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
 - [DanB Kaggle Kernels](https://www.kaggle.com/dansbecker/kernels)
