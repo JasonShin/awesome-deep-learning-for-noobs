@@ -87,6 +87,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Framework
 
 #### 1. Tensorflow
+- [Installing Tensorflow and Keras on Windows](https://chunml.github.io/ChunML.github.io/project/Tensorflow-Installation/)
 - [Effective TensorFlow for Non-Experts (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
 - [TensorFlow 101 (Really Awesome Intro Into TensorFlow)](https://www.youtube.com/watch?v=oxf3o8IbCk4)
 
