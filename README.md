@@ -84,5 +84,11 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Kaggle competitions
 - [Titanic: Machine Learning from Disaster](https://www.youtube.com/watch?v=xpeoKf4or0o)
 
+### Framework
+
+#### 1. Tensorflow
+- [Effective TensorFlow for Non-Experts (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
+- [TensorFlow 101 (Really Awesome Intro Into TensorFlow)](https://www.youtube.com/watch?v=oxf3o8IbCk4)
+
 ### Special thanks
 - [Tensorflow Top to Bottom](https://github.com/astorfi/TensorFlow-World-Resources)
