@@ -77,6 +77,10 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Chatbots
 - [How do chatbots work?](https://chatbotslife.com/nlp-nlu-nlg-and-how-chatbots-work-dd7861dfc9df)
 
+### Inpirational
+- [Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
+- [Andrew Ng interviews Geoffrey Hinton](https://www.youtube.com/watch?time_continue=1871&v=-eyhCTvrEtE)
+
 ### Bonus
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
 - [DanB Kaggle Kernels](https://www.kaggle.com/dansbecker/kernels)
