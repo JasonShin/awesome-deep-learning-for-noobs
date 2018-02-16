@@ -67,6 +67,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### Recurrent Neural Network
 - [LSTM implementation tutorial](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
 - [Really good LSTM notebook demo](https://github.com/llSourcell/LSTM_Networks/blob/master/LSTM%20Demo.ipynb)
+- [RNN tutorial video by Intel](https://www.youtube.com/watch?time_continue=552&v=Ukgii7Yd_cU)
 
 ### Time Series Analysis
 - [Overview of TSA](http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
