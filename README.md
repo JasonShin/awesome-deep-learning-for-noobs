@@ -47,6 +47,9 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
 - [Super detailed Backpropagation](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
 
+### 6. Maths
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+
 ### Convolutional Neural Network
 - [Friendly guide to CNN](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [CNN Cat vs Dog in Keras](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
