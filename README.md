@@ -91,6 +91,7 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 - [Nice ML and DL training](https://www.datacamp.com/courses/deep-learning-in-python/)
 - [DanB Kaggle Kernels](https://www.kaggle.com/dansbecker/kernels)
 - [My First Month as a Junior Data-Scientist](https://gaborvecsei.wordpress.com/2017/10/28/my-first-month-as-a-junior-data-scientist/)
+- [How to read Maths notations](https://www.youtube.com/watch?v=-mu3TYZ_udM)
 
 ### Kaggle competitions
 - [Titanic: Machine Learning from Disaster](https://www.youtube.com/watch?v=xpeoKf4or0o)
