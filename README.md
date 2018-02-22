@@ -86,6 +86,9 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 ### Chatbots
 - [How do chatbots work?](https://chatbotslife.com/nlp-nlu-nlg-and-how-chatbots-work-dd7861dfc9df)
 
+### Sentiment Analysis
+- [Predict Sentiment From Movie Reviews Using Deep Learning](https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
+
 ### Inspirational
 - [Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
 - [Andrew Ng interviews Geoffrey Hinton](https://www.youtube.com/watch?time_continue=1871&v=-eyhCTvrEtE)
