@@ -66,6 +66,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Keras classification example](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/)
 - [Cat vs Dog classification tutorial](https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/)
 - [Cat vs Dog classification Keras](https://www.kaggle.com/stevenhurwitt/cats-vs-dogs-using-a-keras-convnet)
+- [VGG paper](https://arxiv.org/pdf/1409.1556.pdf)
 #### CNN - superresolution
 - [Deep learning for image denoising and superresolution](https://www.slideshare.net/yuhuang/deep-learning-for-image-denoising-superresolution-27435126)
 - [Fast and Accurate Image Super Resolution by Deep CNN
