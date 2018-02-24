@@ -34,3 +34,13 @@ model.summary()
 import keras.preprocessing import sequence
 sequence.pad_sequences(X_train, maxlen=max_words)
 ```
+
+### Sentiment Analysis predit new text
+```
+text = numpy.array([‘this is excellent sentence’])
+#print(text.shape)
+tk = keras.preprocessing.text.Tokenizer( nb_words=2000, lower=True,split=” “)
+tk.fit_on_texts(text)
+prediction = model.predict(numpy.array(tk.texts_to_sequences(text)))
+print(prediction)
+```
