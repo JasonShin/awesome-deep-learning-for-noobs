@@ -7,3 +7,8 @@ len(numpy.unique(numpy.hstack(X)))
 ```
 np.unique(y)
 ```
+
+### Mean and standard deviation
+```
+len(numpy.unique(numpy.hstack(X)))
+```
