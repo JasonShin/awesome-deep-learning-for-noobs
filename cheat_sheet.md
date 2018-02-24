@@ -15,6 +15,13 @@ np.unique(y)
 len(numpy.unique(numpy.hstack(X)))
 ```
 
+### Predictable numpy random
+You would fixate random for reproducibility
+```
+seed = 7
+numpy.ramdom.seed(seed)
+```
+
 ## Keras Data Processing
 
 ### Get model summary
