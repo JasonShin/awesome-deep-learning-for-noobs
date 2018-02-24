@@ -17,6 +17,11 @@ len(numpy.unique(numpy.hstack(X)))
 
 ## Keras Data Processing
 
+### Get model summary
+```
+model.summary()
+```
+
 ### Truncate or Pad a dataset
 ```
 import keras.preprocessing import sequence
