@@ -26,6 +26,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 ### 2. Deep Learning overview
 
 - [History of deep learning - very high level overview](https://www.youtube.com/watch?v=n6XSDA3kfEw)
+- [How to Make Data Amazing](https://www.youtube.com/watch?v=koiTTim4M-s)
 - [Super awesome psudo code of all important Deep Learning algorithms](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [Terminologies](http://wiki.deeplearning.ai/Welcome)
 - [What is intuition in Deep Learning?](https://medium.com/intuitionmachine/intuition-innovation-and-deep-learning-f20b9908d23c)
