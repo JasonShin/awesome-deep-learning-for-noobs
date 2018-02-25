@@ -97,6 +97,7 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 ### Sentiment Analysis
 - [Predict Sentiment From Movie Reviews Using Deep Learning](https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/)
 - [LSTM + Word Embedding IMDB](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+- [A Word2Vec Keras tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
 
 ### Inspirational
 - [Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
