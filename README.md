@@ -81,6 +81,9 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 - [Overview of TSA](http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
 - [Hierachical Temporal Memory](https://numenta.com/papers-videos-and-more/resources/hierarchical-temporal-memory-white-paper/)
 
+### Reinforcement Learning
+- [Landing a SpaceX Falcon Heavy Rocket](https://www.youtube.com/watch?v=09OMoGqHexQ&feature=em-subs_digest)
+
 ### Transfer Learning
 - [Transfer Learning using Keras](https://towardsdatascience.com/transfer-learning-using-keras-d804b2e04ef8)
 
