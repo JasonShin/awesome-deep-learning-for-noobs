@@ -33,6 +33,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Deep Learning tutorials by DanB](https://www.kaggle.com/learn/deep-learning)
 - [Backpropogation in Python from scratch](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 - [Saving Keras model and weights](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
+- [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
 
 ### 3. Statistics
 
