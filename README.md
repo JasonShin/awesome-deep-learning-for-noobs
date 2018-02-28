@@ -120,5 +120,8 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 - [Effective TensorFlow for Non-Experts (Google I/O '17)](https://www.youtube.com/watch?v=5DknTFbcGVM)
 - [TensorFlow 101 (Really Awesome Intro Into TensorFlow)](https://www.youtube.com/watch?v=oxf3o8IbCk4)
 
+### 2. Keras
+- [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+
 ### Special thanks
 - [Tensorflow Top to Bottom](https://github.com/astorfi/TensorFlow-World-Resources)
