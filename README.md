@@ -31,6 +31,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Terminologies](http://wiki.deeplearning.ai/Welcome)
 - [What is intuition in Deep Learning?](https://medium.com/intuitionmachine/intuition-innovation-and-deep-learning-f20b9908d23c)
 - [Deep Learning tutorials by DanB](https://www.kaggle.com/learn/deep-learning)
+- [Deep Learning Course by Kaggle](https://www.datacamp.com/courses/deep-learning-in-python)
 - [Backpropogation in Python from scratch](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 - [Saving Keras model and weights](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 - [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
