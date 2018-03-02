@@ -13,6 +13,7 @@
 You generally need to learn about basics of Machine Learning before you start practicing Deep Learning
 
 - [What is machine learning - Video series](https://classroom.udacity.com/courses/ud262/lessons/3625438937/concepts/6405791940923)
+- [ML vds DL](https://ydsedu.com/2017/12/22/deep-learning-neural-network-a-subfield-of-machine-learning/)
 - [What is Machine Learning - Comparison with X](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [DanB machine learning tutorials](https://www.kaggle.com/learn/machine-learning)
 - [High level view of ML](https://blog.dataiku.com/machine-learning-explained-algorithms-are-your-friend)
