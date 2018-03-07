@@ -24,6 +24,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Xgboost example 1](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
 - [Xgboost example 2](https://www.kaggle.com/datacanary/xgboost-example-python)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [ML Cheatsheet with various Python examples](http://ml-cheatsheet.readthedocs.io/en/latest/)
 
 ### 2. Deep Learning overview
 
