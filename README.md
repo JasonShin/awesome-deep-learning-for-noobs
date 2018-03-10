@@ -38,6 +38,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Backpropogation in Python from scratch](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 - [Saving Keras model and weights](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 - [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
+- [Gradient Descent Optimization Algorithms](http://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms)
 
 ### 3. Statistics
 
