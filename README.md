@@ -39,6 +39,7 @@ You generally need to learn about basics of Machine Learning before you start pr
 - [Saving Keras model and weights](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 - [Getting started with the Keras Sequential model](https://keras.io/getting-started/sequential-model-guide/)
 - [Gradient Descent Optimization Algorithms](http://ruder.io/optimizing-gradient-descent/index.html#gradientdescentoptimizationalgorithms)
+- [Model Loss Functions in Keras](https://keras.io/losses/)
 
 ### 3. Statistics
 
