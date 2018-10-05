@@ -134,5 +134,17 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 ### 2. Keras
 - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 
+#### 3. PyTorch
+- [Official PyTorch Tutorial](https://pytorch.org/tutorials/)
+- [PyTorch Tutorial Playlist(YouTube)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+- [A Tiny Talk about PyTorch](https://www.youtube.com/watch?v=ICMsWq7c5Z8)
+- [Another Talk about PyTorch](https://www.youtube.com/watch?v=_H3aw6wkCv0)
+
+
+
+
+
+
+
 ### Special thanks
 - [Tensorflow Top to Bottom](https://github.com/astorfi/TensorFlow-World-Resources)
